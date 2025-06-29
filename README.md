@@ -16,14 +16,12 @@ __Youtube Link:__ https://youtu.be/8sODO2nf1Es
 
 ### Tech Stack
 
-##### FrontEnd
+##### FrontEnd 
 <code><img height="20" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white"></code>
-
 ##### BackEnd
 <code><img height="20" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></code>
 <code><img height="20" src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black"></code>
 <code><img height="20" src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"></code>
-
 ##### Libraries and Frameworks 
 <code><img height="20" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"></code>
@@ -32,6 +30,5 @@ __Youtube Link:__ https://youtu.be/8sODO2nf1Es
 <code><img height="20" src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black"></code>
 <code><img height="20" src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white"></code>
-
 ##### Database 
 <code><img height="20" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></code>
