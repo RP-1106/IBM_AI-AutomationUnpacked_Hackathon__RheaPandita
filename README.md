@@ -4,8 +4,8 @@
 
 * __Problem with Traditional Tools:__ Tools like Excel, Power BI, and Tableau are time-consuming and may miss fine-grained data insights over time.
 * __Target Audience:__ Small business owners and sales managers seeking quick, detailed insights into product and customer data.
-* __Solution:__ 'SalesAnalyser' – an AI-powered, English-to-SQL chatbot using IBM's Granite 3.3:8b via Ollama and a RAG (Retrieval-Augmented Generation) approach.
-* __Key Feature:__ Users can ask questions in natural language (e.g., "Which customer brought the most profit?") and instantly receive SQL queries, visual charts, and downloadable insights.
+* __Solution:__ 'SalesAnalyser' – an AI-powered, English-to-SQL chatbot using IBM's Granite 3.3:8b via Ollama and a RAG approach.
+* __Key Feature:__ Users can ask questions in natural language (e.g., "Which customer brought the most profit?") and receive SQL queries, visual charts, and downloadable tables.
 
 __AI Capabilities:__
 - Extracts subjects, filters, and time periods to build accurate SQL queries.
