@@ -13,8 +13,6 @@ __AI Capabilities:__
 - Uses English-SQL pair data via RAG for query generation.
 - Provides natural language summaries and visualizations with relevant aggregated data.
 
-__Youtube Link:__ https://youtu.be/8sODO2nf1Es
-
 ### Tech Stack
 
 ##### FrontEnd 
