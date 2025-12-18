@@ -1,6 +1,7 @@
 ## SalesAnalyser: AI-Powered Analysing Platform
  
 ![Sales-Analyser-Thumbnail](https://github.com/user-attachments/assets/d910fdae-738f-4c41-a6b5-480d427f90a0)
+[Watch the demo video](https://youtu.be/8sODO2nf1Es?si=Vhgw_XvLe14PNvcG)
 
 * __Problem with Traditional Tools:__ Tools like Excel, Power BI, and Tableau are time-consuming and may miss fine-grained data insights over time.
 * __Target Audience:__ Small business owners and sales managers seeking quick, detailed insights into product and customer data.
